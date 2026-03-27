@@ -1,5 +1,5 @@
 /*
- * LockerOS — ESP32 Firmware (không có RFID)
+ * LockerOS — ESP32 Firmware 
  * 1 ESP32 điều khiển 4 relay → 4 ngăn tủ L01-L04
  * L04 logic ngược với các tủ còn lại
  */
